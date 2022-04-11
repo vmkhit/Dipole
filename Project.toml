@@ -1,0 +1,7 @@
+name = "Dipole"
+uuid = "f2c36cac-9895-44e6-8d47-d8eca1b9b55c"
+authors = ["Vahagn Mkhitaryan <vmkhitar@purdue.edu>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
